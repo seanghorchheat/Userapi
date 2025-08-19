@@ -1,0 +1,6 @@
+@Userapi_HostAddress = http://localhost:5063
+
+GET {{Userapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
