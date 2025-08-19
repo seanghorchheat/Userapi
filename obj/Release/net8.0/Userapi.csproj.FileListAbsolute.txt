@@ -39,3 +39,4 @@ C:\Users\Administrator\Desktop\store-db\Userapi\Userapi\obj\Release\net8.0\refin
 C:\Users\Administrator\Desktop\store-db\Userapi\Userapi\obj\Release\net8.0\Userapi.pdb
 C:\Users\Administrator\Desktop\store-db\Userapi\Userapi\obj\Release\net8.0\Userapi.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\store-db\Userapi\Userapi\obj\Release\net8.0\ref\Userapi.dll
+C:\Users\Administrator\Desktop\store-db\Userapi\Userapi\obj\Release\net8.0\Userapi.sourcelink.json
