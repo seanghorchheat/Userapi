@@ -1,6 +1,0 @@
-@Userapi_HostAddress = http://localhost:5136
-
-GET {{Userapi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

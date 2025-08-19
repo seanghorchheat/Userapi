@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Userapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+047604be66902979a4a4a6ab3002c40c7dc9e826")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce258e31993878b3f58676a9aade09cd1938e578")]
 [assembly: System.Reflection.AssemblyProductAttribute("Userapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Userapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
